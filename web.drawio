@@ -17,7 +17,7 @@
                     <mxGeometry x="40" y="30" width="640" height="440" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="19" vertex="1">
-                    <mxGeometry x="60" y="40" width="120" height="160" as="geometry"/>
+                    <mxGeometry x="60" y="70" width="120" height="160" as="geometry"/>
                 </mxCell>
                 <mxCell id="48" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;JavaScript&lt;/span&gt;&lt;br style=&quot;font-size: 26px;&quot;&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;React&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="19" vertex="1">
                     <mxGeometry x="190" y="250" width="140" height="80" as="geometry"/>
@@ -28,23 +28,26 @@
                 <mxCell id="54" value="Tailwid CSS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="19" vertex="1">
                     <mxGeometry x="20" y="294" width="160" height="40" as="geometry"/>
                 </mxCell>
+                <mxCell id="55" value="Web&lt;br&gt;Browser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="19">
+                    <mxGeometry x="60" y="150" width="120" height="70" as="geometry"/>
+                </mxCell>
                 <mxCell id="20" value="" style="swimlane;startSize=0;dashed=1;" parent="1" vertex="1">
                     <mxGeometry x="400" y="47" width="740" height="753" as="geometry"/>
                 </mxCell>
                 <mxCell id="34" value="Web Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" parent="20" vertex="1">
-                    <mxGeometry x="85" y="120" width="110" height="65" as="geometry"/>
+                    <mxGeometry x="85" y="103" width="110" height="65" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" value="A P Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" parent="20" vertex="1">
-                    <mxGeometry x="485" y="120" width="110" height="65" as="geometry"/>
+                    <mxGeometry x="485" y="103" width="110" height="65" as="geometry"/>
                 </mxCell>
                 <mxCell id="36" value="D B Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" parent="20" vertex="1">
-                    <mxGeometry x="485" y="530" width="110" height="65" as="geometry"/>
+                    <mxGeometry x="485" y="503" width="110" height="65" as="geometry"/>
                 </mxCell>
                 <mxCell id="42" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;" parent="20" vertex="1">
-                    <mxGeometry x="595" y="650" width="125" height="90" as="geometry"/>
+                    <mxGeometry x="580" y="586" width="125" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="44" value="DBMS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="20" vertex="1">
-                    <mxGeometry x="602.5" y="670" width="110" height="50" as="geometry"/>
+                    <mxGeometry x="587.5" y="606" width="110" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="TypeScript" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="20" vertex="1">
                     <mxGeometry x="120" y="370" width="150" height="40" as="geometry"/>
