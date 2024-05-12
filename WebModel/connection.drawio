@@ -82,6 +82,9 @@
                 <mxCell id="38" value="Webシステム" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="5">
                     <mxGeometry x="455" y="1030" width="170" height="40" as="geometry"/>
                 </mxCell>
+                <mxCell id="39" value="アプリケーション&lt;br&gt;サーバーサイド&lt;br&gt;スクリプト" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="5">
+                    <mxGeometry x="470" y="680" width="220" height="100" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
