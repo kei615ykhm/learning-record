@@ -19,10 +19,10 @@
                 <mxCell id="8" value="アプリケーション層&lt;br&gt;&lt;br&gt;&amp;nbsp;テキストエディタ・ブラウザなど" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="4">
                     <mxGeometry x="40" y="80" width="1400" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="システムライブラリ層&lt;br&gt;&lt;br&gt;GNU Cライブラリ（glidc）・PAMなど" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="4">
+                <mxCell id="9" value="システムライブラリ層&lt;br&gt;&lt;br&gt;Webサーバー・データベース・キャッシュシステムなど" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="4">
                     <mxGeometry x="40" y="280" width="1400" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="シェルとユーティリティ&lt;br&gt;&lt;br&gt;Bash・Zsh・Coreutils（Is,co,mvなど）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="4">
+                <mxCell id="10" value="シェルとユーティリティ&lt;br&gt;&lt;br&gt;Bash・git・npm・Dockerなど" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="4">
                     <mxGeometry x="40" y="480" width="1400" height="160" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="" style="swimlane;startSize=0;dashed=1;fontSize=25;" vertex="1" parent="2">
