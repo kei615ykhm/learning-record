@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e">
+    <diagram id="_gX3k_CM9ZGp-EhOba6K" name="ページ1">
+        <mxGraphModel dx="1883" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="40" width="1560" height="1080" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Linuxディストリビューション" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="2">
+                    <mxGeometry x="607" y="40" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="swimlane;startSize=0;dashed=1;fontSize=25;" vertex="1" parent="2">
+                    <mxGeometry x="40" y="100" width="1490" height="620" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="swimlane;startSize=0;dashed=1;fontSize=25;" vertex="1" parent="2">
+                    <mxGeometry x="40" y="750" width="1490" height="300" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
